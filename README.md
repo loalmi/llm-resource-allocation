@@ -11,6 +11,9 @@ resource allocation between agents in a multi-agent system based on large langua
 * Роутер → распределяет подзадачи по агентам с использованием критериев справедливости (NSW, EF, USW)
 * Агенты (3 типа: RESEARCHER, ANALYST, PROGRAMMER) → исполняют подзадачи
 
+<img width="491" height="201" alt="image" src="https://github.com/user-attachments/assets/c91600e0-fd36-4ed7-a535-f85a01536ab2" />
+
+
 ### Техническая реализация:
 
 Используется OpenRouter API с тремя моделями: GPT-4o-mini, Claude-3 Haiku, Llama-3 8B
