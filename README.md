@@ -37,5 +37,12 @@ resource allocation between agents in a multi-agent system based on large langua
 Настроена интеграция с OpenRouter
 
 Создан OptimizedOracle с матрицами совместимости
+Проведен анализ стабильности генерации оценок
+<img width="4170" height="2966" alt="stability_analysis" src="https://github.com/user-attachments/assets/6653a2fa-b466-41f1-9fd7-90c3492815cb" />
+
 
 Проведены первые тесты API
+
+Создано три типа роутинга (USW, NSW и просто равномерное распределение)
+<img width="1389" height="990" alt="Compare_p" src="https://github.com/user-attachments/assets/1ed54ffc-ab26-48dd-bf9c-353a0fb3989e" />
+
